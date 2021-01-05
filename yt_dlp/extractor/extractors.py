@@ -1403,6 +1403,7 @@ from .streamable import StreamableIE
 from .streamanity import StreamanityIE
 from .streamcloud import StreamcloudIE
 from .streamcz import StreamCZIE
+from .streamtape import StreamtapeIE
 from .streetvoice import StreetVoiceIE
 from .stretchinternet import StretchInternetIE
 from .stripchat import StripchatIE
